@@ -1,6 +1,6 @@
 ## Deployed link:
  
-     ##https:
+    ## https://threejs-shirt-styler-haseeb.netlify.app
 
 
 # REACT
