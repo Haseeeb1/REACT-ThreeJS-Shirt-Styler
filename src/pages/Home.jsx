@@ -24,7 +24,6 @@ const Home = () => {
               className="w-8 h-8 object-contain"
             />
           </motion.header>
-
           <motion.div className="home-content" {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
