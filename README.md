@@ -2,7 +2,6 @@
  
     ## https://threejs-shirt-styler-haseeb.netlify.app
 
-
 # REACT
  React is a JavaScript library that simplifies the process of building user interfaces. It provides a 
 component-based architecture that allows developers to break down the UI into smaller, reusable parts. 
