@@ -9,7 +9,6 @@ React manages state and updates the DOM efficiently, which leads to better perfo
 user experience. With React, developers can easily create complex UI elements and handle user interactions
 in a declarative way.
 
-
 # THREEJS
 Three.js is a powerful JavaScript library that enables developers to create 3D graphics in web
 applications. It provides a comprehensive set of tools for working with WebGL, which is a  low-level
