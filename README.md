@@ -1,13 +1,16 @@
 
 
 # REACT
- React is a JavaScript library that simplifies the process of building user interfaces. It provides a 
+
+React is a JavaScript library that simplifies the process of building user interfaces. It provides a 
 component-based architecture that allows developers to break down the UI into smaller, reusable parts. 
 React manages state and updates the DOM efficiently, which leads to better performance and a smoother
 user experience. With React, developers can easily create complex UI elements and handle user interactions
 in a declarative way.
 
+
 # THREEJS
+
 Three.js is a powerful JavaScript library that enables developers to create 3D graphics in web
 applications. It provides a comprehensive set of tools for working with WebGL, which is a  low-level
 graphics API for the web. Threejs allows developers to create complex 3D scenes, animations, and 
